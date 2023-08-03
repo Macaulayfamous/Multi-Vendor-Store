@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "205313360423",
+    "project_id": "multi-shop-app-f6864",
+    "storage_bucket": "multi-shop-app-f6864.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205313360423:android:de519ee11dc244bb50c402",
+        "android_client_info": {
+          "package_name": "com.macaulayfamous.maclay_multi_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205313360423-uqnrb1kp14ov9kute6fk7bm0pj1i5gtu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJgYeTPW-qu3nSRMZ4uwl1si7ZGfQu4XQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205313360423-uqnrb1kp14ov9kute6fk7bm0pj1i5gtu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
